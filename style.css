@@ -1,0 +1,10 @@
+.imagemainpage {
+ width: 270px;
+}
+
+.imagescontainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
