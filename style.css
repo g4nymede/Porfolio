@@ -34,3 +34,10 @@ h2 {
     padding-bottom: 25px;
     font-family: Stint Ultra Condensed;
 }
+a:link {
+    color:black;
+  }
+  
+  a:visited {
+    color:black;
+  }
